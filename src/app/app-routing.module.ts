@@ -6,7 +6,7 @@ import { PricingComponent } from './pricing/pricing.component';
 
 const routes: Routes = [
   {path:'', component: HomeComponent},
-  {path:'faq', component: FaqComponent},
+  // {path:'faq', component: FaqComponent},
   {path:'pricing', component: PricingComponent},
   // {path:'**', component: HomeComponent}
 
